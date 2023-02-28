@@ -38,8 +38,8 @@ sidebar:
         - idiom: French
           level: Professional
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: 中文
+          level: 专业水平
 
     interests:
       title: Interests
@@ -63,7 +63,7 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    title: Education
+    title: 教育
     info:
       - degree: MSc in Computer Science
         university: University of London
@@ -77,7 +77,7 @@ education:
             - Bullet point
             - Bullet point
       - degree: BSc in Applied Mathematics
-        university: Bristol University
+        university: 北京清华大学
         time: 2007 - 2011
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
